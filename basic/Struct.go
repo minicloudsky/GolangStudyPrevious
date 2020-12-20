@@ -1,9 +1,9 @@
 package main
 
-type Person struct {
-	name string
-	age  int
-}
+//type Person struct {
+//	name string
+//	age  int
+//}
 //
 //func main() {
 //	var p Person
